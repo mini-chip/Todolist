@@ -1,0 +1,16 @@
+.form {
+  text-align: center;
+}
+.todoInput {
+  color: #000000;
+  padding: 10px;
+  background: #f9f9f9;
+  border: 1px border #000000;
+}
+.InputSection {
+  background: #f9f9f9;
+}
+.todoSection {
+  background: #ffffff;
+  color: #070707;
+}
